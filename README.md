@@ -1,4 +1,5 @@
 # Games Termux
+![Logo](https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/logo.jpg)
 Sebuah tools untuk memainkan permainan-permainan di Aplikasi Termux 🎮
 
 # Petunjuk Penginstallan
@@ -10,5 +11,4 @@ Sebuah tools untuk memainkan permainan-permainan di Aplikasi Termux 🎮
 * `bash games.sh` or `./games.sh`
 
 # Screenshots
-![https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/logo.jpg]
-![https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/screenshot.png]
+![Screenshots](https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/screenshot.png)
