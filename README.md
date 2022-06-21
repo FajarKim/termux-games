@@ -10,5 +10,5 @@ Sebuah tools untuk memainkan permainan-permainan di Aplikasi Termux 🎮
 * `bash games.sh` or `./games.sh`
 
 # Screenshots
-![https://github.com/FajarKim/games-termux/pictures/logo.jpg]
-![https://github.com/FajarKim/games-termux/pictures/screenshot.png]
+![https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/logo.jpg]
+![https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/screenshot.png]
