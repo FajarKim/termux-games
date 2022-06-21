@@ -8,7 +8,7 @@ Sebuah tools untuk memainkan permainan-permainan di Aplikasi Termux 🎮
 * `$ git clone https://github.com/FajarKim/games-termux`
 * `$ cd games-termux`
 * `$ bash install.sh`
-* `$ bash games.sh` or `./games.sh`
+* `$ bash games.sh` or `$ ./games.sh`
 
 # Daftar Game
 1. [0verkill](https://github.com/hackndev/0verkill)
