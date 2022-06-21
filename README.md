@@ -1,5 +1,5 @@
-# Games Termux
 ![Logo](https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/logo.jpg)
+# Games Termux
 Sebuah tools untuk memainkan permainan-permainan di Aplikasi Termux 🎮
 
 # Petunjuk Penginstallan
