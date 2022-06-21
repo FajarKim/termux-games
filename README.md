@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/logo.jpg)
 # Games Termux
-Sebuah tools untuk memainkan permainan-permainan di Aplikasi Termux 🎮. Dengan 20 daftar game terbaik yang dapat dimainkan tanpa menghabiskan ruang penyimpanan.
+Sebuah tools untuk memainkan permainan-permainan di Aplikasi Termux 🎮. Dengan [20 daftar game](https://github.com/FajarKim/games-termux#daftar-game) terbaik yang dapat dimainkan tanpa menghabiskan ruang penyimpanan.
 
 # Petunjuk Penginstallan
 * `$ pkg update -y && pkg upgrade -y`
