@@ -34,3 +34,16 @@ Sebuah tools untuk memainkan permainan-permainan di Aplikasi Termux 🎮. Dengan
 
 # Screenshots
 ![Screenshots](https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/screenshot.png)
+
+# Kontak
+Silahkan hubungi kontak saya dibawah ini jika ada pertanyaan atau masalah terkait alat ini.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-grey?style=plastic&color=202a33&logo=whatsapp)](https://wa.me/6285294315884?text=Hi) 
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=plastic&color=202a33&logo=telegram)](https://t.me/FajarThea) 
+[![Gmail](https://img.shields.io/badge/E%20Mail-grey?style=plastic&color=202a33&logo=gmail)](mailto:fajarrkim@gmail.com) 
+
+Jangan lupa Follow juga akun dibawah ini ya!
+
+[![Facebook](https://img.shields.io/badge/Facebook-grey?style=plastic&color=202a33&logo=facebook)](https://www.facebook.com/profile.php?id=100071979099290) 
+[![Instagram](https://img.shields.io/badge/Instagram-grey?style=plastic&color=202a33&logo=instagram)](https://instagram.com/fajarkim_)
+[![Twitter](https://img.shields.io/badge/Twitter-grey?style=plastic&color=202a33&logo=twitter)](https://twitter.com/fajarkim_)
