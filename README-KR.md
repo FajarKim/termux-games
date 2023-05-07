@@ -12,7 +12,7 @@
 </div>
 
 # Termux Games
-Termux 앱에서 게임을 플레이할 수 있는 간단한 도구입니다 🎮. 저장 공간을 차지하지 않고 플레이 할 수있는 최고의 [20 게임 목록](https://github.com/FajarKim/games-termux/bloob/master/README-KR.md#list-games)이 있습니다.
+Termux 앱에서 게임을 플레이할 수 있는 간단한 도구입니다 🎮. 저장 공간을 차지하지 않고 플레이 할 수있는 최고의 [20 게임 목록](https://github.com/FajarKim/termux-games/blob/master/README-KR.md#%EA%B2%8C%EC%9E%84-%EB%AA%A9%EB%A1%9D)이 있습니다.
 
 <details>
 <summary>번역</summary>
