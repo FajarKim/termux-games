@@ -1,81 +1,139 @@
-![Termux Games Logo](https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/logo.jpg)
+<!-- en translation -->
 <div align="center">
-    <a href="https://github.com/FajarKim/termux-games"><img src="https://img.shields.io/github/languages/code-size/FajarKim/termux-games?label=Termux%20Games&style=plastic&logo=github&color=blue" alt="BZip2 Shell Exec"></a>
-    <a href="https://github.com/FajarKim/termux-games/stargazers/"><img src="https://img.shields.io/github/stars/FajarKim/termux-games?label=Star&style=plastic&color=red" alt="Stars"></a>
-    <a href="https://github.com/FajarKim/termux-games/network/members/"><img src="https://img.shields.io/github/forks/FajarKim/termux-games?label=Fork&style=plastic&color=f5ff5e" alt="Forks"></a>
-    <a href="https://github.com/FajarKim/termux-games/issues?q=is%3Aopen+is%3Aissue/"><img src="https://img.shields.io/github/issues/FajarKim/termux-games?label=Issue&style=plastic&color=a1b3ff" alt="Issues"></a>
-    <a href="https://github.com/FajarKim/termux-games/issues?q=is%3Aissue+is%3Aclosed/"><img src="https://img.shields.io/github/issues-closed/FajarKim/termux-games?label=Issue&style=plastic&color=ffffff" alt="Issues"></a>
-    <a href="https://github.com/FajarKim/termux-games/watchers/"><img src="https://img.shields.io/github/watchers/FajarKim/termux-games?label=Watch&style=plastic&color=1fe1f" alt="Whatchers"></a>
-    <a href="https://github.com/FajarKim/termux-games/pulls?q=is%3Aopen+is%3Apr/"><img src="https://img.shields.io/github/issues-pr/FajarKim/termux-games?&label=Pull%20requests&style=plastic&color=971dff" alt="Pull-requests"></a>
-    <a href="https://github.com/FajarKim/termux-games/pulls?q=is%3Apr+is%3Aclosed/"><img src="https://img.shields.io/github/issues-pr-closed/FajarKim/termux-games?&label=Pull%20requests&style=plastic&color=orange" alt="Pull-requests"></a>
-    <a href="https://github.com/FajarKim/termux-games/blob/master/LICENSE"><img src="https://img.shields.io/github/license/FajarKim/termux-games?label=License&style=plastic&color=01ffc4" alt="License"></a>
+    <h2>Termux Games</h2>
+    <p>
+        <a href="https://github.com/FajarKim/termux-games/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a> · 
+        <a href="https://github.com/FajarKim/termux-games/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a>
+    </p>
+    <p>
+        <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://img.shields.io/badge/bash-%3E=3.0-blue"/></a>
+        <a href="/LICENSE"><img src="https://img.shields.io/github/license/FajarKim/termux-games"/></a>
+        <a href="https://github.com/FajarKim/termux-games/stargazers"><img src="https://img.shields.io/github/stars/FajarKim/termux-games?style=flat"/></a>
+        <a href="https://github.com/FajarKim/termux-games/network/members"><img src="https://img.shields.io/github/forks/FajarKim/termux-games?style=flat"/></a>
+        <a href="https://github.com/FajarKim/termux-games/issues"><img src="https://img.shields.io/github/issues/FajarKim/termux-games"/></a>
+    </p>
 </div>
 
-# Termux Games
-Ini adalah alat sederhana untuk memainkan game di Aplikasi Termux 🎮. Dengan [20 daftar game](https://github.com/FajarKim/games-termux#daftar-game) terbaik yang dapat dimainkan tanpa menghabiskan ruang penyimpanan.
+**Termux Games** is a lightweight and easy-to-use utility designed for playing games directly in the Termux app. Perfect for users with limited internal storage or without internet access, this tool offers an engaging and responsive graphical interface.
 
-<details>
-<summary>Terjemahan</summary>
+## Table of Contents
 
-- [🇬🇧 English (UK)](https://github.com/FajarKim/termux-games/blob/master/README-EN.md)
-- [🇫🇷 France](https://github.com/FajarKim/termux-games/blob/master/README-FR.md)
-- [🇰🇷 Korean](https://github.com/FajarKim/termux-games/blob/master/README-KR.md)
-</details>
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [List Games](#list-games)
+- [Contributions](#contributions)
+- [License](#license)
+- [Contact](#contact)
+- [Donate](#donate)
+- [Changelog](#changelog)
 
-# Petunjuk Penginstallan
-* `$ pkg update -y && pkg upgrade -y`
-* `$ pkg install git`
-* `$ git clone https://github.com/FajarKim/games-termux`
-* `$ cd games-termux`
-* `$ bash install.sh`
-* `$ bash games.sh` atau `$ ./games.sh`
+## Features
 
-# Daftar Game
-Berikut adalah daftar game yang ada di Termux Games ini beserta link sumbernya!
+Termux Games offers a variety of features:
+
+- Play a collection of simple, interactive games directly in Termux.
+- Ideal for users with limited storage or no internet connection.
+- Enjoy 20 of the most engaging games available.
+- Experience a sleek, responsive, and user-friendly GUI.
+
+## Installation
+
+Follow these steps to install Termux Games:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/FajarKim/termux-games.git
+   ```
+2. Change to the `termux-games` directory:
+
+   ```bash
+   cd termux-games
+   ```
+
+To install all the required packages, you can run the `install.sh` file:
+
+```bash
+bash install.sh
+```
+
+## Usage
+
+To start Termux Games, simply run the `games.sh` script using Bash. Once launched, choose your desired game from the menu.
+
+```bash
+bash games.sh
+```
+
+Screenshot of the program in action:
+
+<div align="center">
+    <picture>
+        <source srcset="https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/screenshot_dark.png" media="(prefers-color-scheme: dark)">
+        <source srcset="https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/screenshot_light.png" media="(prefers-color-scheme: light)">
+        <img src="https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/screenshot_light.png" alt="Screenshot">
+    </picture>
+</div>
+
+## List Games
+
+Below is the list of games available in Termux Games along with their source links:
+
 1. [0verkill](https://github.com/hackndev/0verkill)
 2. [2048](https://github.com/mevdschee/2048.c)
 3. [Brogue](https://sites.google.com/site/broguegame/)
 4. [Cavez of Phear](https://github.com/AMDmi3/cavezofphear)
-5. [Solitaire (1)](https://github.com/nielssp/csol)
-6. [Solitaire (2)](https://github.com/mpereira/tty-solitaire)
-7. [Dopewars](https://dopewars.sourceforge.io)
-8. [Curse of War](http://a-nikolaev.github.io/curseofwar/)
-9. [Ski](https://sourceforge.net/projects/gnuski)
-10. [Greed](http://www.catb.org/~esr/greed/)
-11. [Moon Buggy](https://github.com/seehuhn/moon-buggy)
-12. [Moria](https://umoria.org)
-13. [Nethack](http://www.nethack.org/)
-14. [Npush](http://npush.sourceforge.net/)
-15. [Snake](https://github.com/alexdantas/nSnake)
-16. [Sudoku](http://jubalh.github.io/nudoku/)
-17. [Pacman (1)](https://sites.google.com/site/doctormike/pacman.html)
-18. [Pacman (2)](https://sourceforge.net/projects/myman/)
-19. [Go](https://www.gnu.org/software/gnugo/)
-20. [Robot finds Kitten](https://github.com/noncombatant/robotfindskitten)
+5. [Curse of War](http://a-nikolaev.github.io/curseofwar/)
+6. [Dopewars](https://dopewars.sourceforge.io)
+7. [Go](https://www.gnu.org/software/gnugo/)
+8. [Greed](http://www.catb.org/~esr/greed/)
+9. [Moon Buggy](https://github.com/seehuhn/moon-buggy)
+10. [Moria](https://umoria.org)
+11. [Nethack](http://www.nethack.org/)
+12. [Npush](http://npush.sourceforge.net/)
+13. [Pacman (1)](https://sites.google.com/site/doctormike/pacman.html)
+14. [Pacman (2)](https://sourceforge.net/projects/myman/)
+15. [Robot finds Kitten](https://github.com/noncombatant/robotfindskitten)
+16. [Ski](https://sourceforge.net/projects/gnuski)
+17. [Snake](https://github.com/alexdantas/nSnake)
+18. [Solitaire (1)](https://github.com/nielssp/csol)
+19. [Solitaire (2)](https://github.com/mpereira/tty-solitaire)
+20. [Sudoku](http://jubalh.github.io/nudoku/)
 
-# Tangkapan Layar
-![Screenshot](https://raw.githubusercontent.com/FajarKim/games-termux/master/pictures/screenshot.png)
+## Contributions
 
-# Kontak
-Silahkan hubungi kontak saya dibawah ini jika ada masalah atau pertanyaan mengenai alat ini. Jangan lupa untuk follow ya!
+Found a bug or have an idea for improvement? Feel free to open a pull request or report an issue on [GitHub Issues](https://fajarkim.github.io/termux-games/issues). Every contribution is highly appreciated!
+
+## License
+
+Termux Games is distributed under the BSD-3 Clause License. See the [LICENSE](/LICENSE) file for full details.
+
+## Contact
+
+For questions or suggestions, please reach out via:
+
+[![E-mail](https://img.shields.io/badge/E‑mail-gray?logo=gmail&logoColor=white)](mailto:fajarrkim@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-gray?logo=whatsapp&logoColor=white)](https://wa.me/6285659850910)  
+[![Telegram](https://img.shields.io/badge/Telegram-gray?logo=telegram&logoColor=white)](https://t.me/FajarThea)
+
+## Donate
+
+Your support helps us continue improving Termux Games. If you enjoy using this tool, please consider making a donation:
+
+[![PayPal](https://img.shields.io/badge/PayPal-donate-blue?logo=paypal&logoColor=white)](https://paypal.me/agusbirawan)  
+[![Ko‑fi](https://img.shields.io/badge/Ko‑fi-donate-cyan?logo=ko‑fi&logoColor=white)](https://ko‑fi.com/fajarkim)  
+[![Trakteer](https://custom-icon-badges.demolab.com/badge/Trakteer-donate-red?logo=trakteerid&logoColor=white)](https://trakteer.id/fajarkim)
+
+Every donation, no matter the size, is greatly appreciated! ❤️
+
+## Changelog
+
+Stay updated with the latest improvements and changes by visiting the [Changelog](https://github.com/FajarKim/termux-games/releases).
+
 <div align="center">
-    <a href="https://www.facebook.com/fajarrkim"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/facebook_logo.png" alt="Facebook" width="35"></a>
-    &ensp;
-    <a href="https://www.instagram.com/fajarkim_"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/instagram_logo.png" alt="Instagram" width="35"></a>
-    &ensp;
-    <a href="https://wa.me/6285659850910?text=Hi"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/whatsapp_logo.png" alt="WhatsApp" width="35"></a>
-    &ensp;
-    <a href="https://t.me/FajarThea"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/telegram_logo.png" alt="Telegram" width="35"></a>
-    &ensp;
-    <a href="https://www.twitter.com/fajarkim_"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/twitter_logo.png" alt="Twitter" width="35"></a>
-    &ensp;
-    <a href="mailto:fajarrkim@gmail.com"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/gmail_logo.png" alt="Gmail" width="35"></a>
+  <img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/line.svg?sanitize=true"/>
 </div>
 
-# Donasi
-Bagi orang baik yang mau berdonasi untuk perkembangan dan kemajuan akun ini, bisa klik tautan di bawah ini! Saya berterima kasih banyak kepada yang mau berdonasi 😊😊😊
-<div align="left">
-    <a href="https://github.com/sponsors/FajarKim/"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/donate_github.png" alt="GitHub Sponsor" width="250"></a>
-    <a href="https://paypal.me/agusbirawan/"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/donate_paypal.png" alt="PayPal Donate" width="250"></a>
-    <a href="https://trakteer.id/FajarKim/"><img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/donate_trakteer.png" alt="Trakteer.id Donate" width="250"></a>
-</div>
+<p align="center">Created with ❤️ and Shell</p>
+<p align="center">Copyright 2022-present Rangga Fajar Oktariansyah</p>
