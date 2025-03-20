@@ -35,9 +35,9 @@ jobs:
         with:
           ruby-version: '3.0'
 
-      - name: Install Jekyll and Tactile Theme
+      - name: Install Jekyll and Hacker Theme
         run: |
-          gem install jekyll jekyll-theme-tactile
+          gem install jekyll jekyll-theme-hacker
 
       - name: Copy README.md to site folder
         run: |
