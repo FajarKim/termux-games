@@ -8,5 +8,3 @@ github:
 markdown: kramdown
 exclude:
     - README.md
-include:
-    - LICENSE
