@@ -1,0 +1,29 @@
+@media (min-width: 728px) {
+  body {
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+}
+
+ul li {
+  list-style-image:url('../images/bullet.svg');
+  margin-left: 1em;
+}
+@media (min-width: 728px) {
+  ul li {
+    margin-left: 3.5em;
+  }
+}
+
+ol li {
+  margin-left: 1em;
+}
+@media (min-width: 728px) {
+  ol li {
+    margin-left: 3.5em;
+  }
+}
+
+.btn-github .icon {
+  background: url("../images/blacktocat.svg") 0 0 no-repeat;
+}
