@@ -39,9 +39,10 @@ jobs:
         run: |
           gem install jekyll jekyll-theme-hacker
 
-      - name: Copy README.md to site folder
+      - name: Copy README.md and LICENSE to site folder
         run: |
           cp README.md .github/sites/README.md
+          cp LICENSE .github/sites/LICENSE
 
       - name: Build Jekyll Site
         run: |

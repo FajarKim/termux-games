@@ -6,5 +6,7 @@ url: "https://fajarkim.github.io/termux-games"
 github:
     repository_url: "https://github.com/FajarKim/termux-games"
 markdown: kramdown
-include:
+exclude:
     - README.md
+include:
+    - LICENSE
