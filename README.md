@@ -6,6 +6,7 @@
         <a href="https://github.com/FajarKim/termux-games/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a>
     </p>
     <p>
+        <a href="https://github.com/FajarKim/termux-games/releases"><img src="https://img.shields.io/github/v/tag/FajarKim/termux-games?label=termux-games"/></a>
         <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://img.shields.io/badge/bash-%3E=3.0-blue"/></a>
         <a href="/LICENSE"><img src="https://img.shields.io/github/license/FajarKim/termux-games"/></a>
         <a href="https://github.com/FajarKim/termux-games/stargazers"><img src="https://img.shields.io/github/stars/FajarKim/termux-games?style=flat"/></a>
