@@ -113,16 +113,16 @@ Termux Games is distributed under the BSD-3 Clause License. See the [LICENSE](/L
 
 For questions or suggestions, please reach out via:
 
-[![E-mail](https://img.shields.io/badge/E‑mail-gray?logo=gmail&logoColor=white)](mailto:fajarrkim@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-gray?logo=whatsapp&logoColor=white)](https://wa.me/6285659850910)  
+[![E-mail](https://img.shields.io/badge/E‑mail-gray?logo=gmail&logoColor=white)](mailto:fajarrkim@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-gray?logo=whatsapp&logoColor=white)](https://wa.me/6285659850910)
 [![Telegram](https://img.shields.io/badge/Telegram-gray?logo=telegram&logoColor=white)](https://t.me/FajarThea)
 
 ## Donate
 
 Your support helps us continue improving Termux Games. If you enjoy using this tool, please consider making a donation:
 
-[![PayPal](https://img.shields.io/badge/PayPal-donate-blue?logo=paypal&logoColor=white)](https://paypal.me/agusbirawan)  
-[![Ko‑fi](https://img.shields.io/badge/Ko‑fi-donate-cyan?logo=ko‑fi&logoColor=white)](https://ko‑fi.com/fajarkim)  
+[![PayPal](https://img.shields.io/badge/PayPal-donate-blue?logo=paypal&logoColor=white)](https://paypal.me/agusbirawan)
+[![Ko‑fi](https://img.shields.io/badge/Ko‑fi-donate-cyan?logo=ko‑fi&logoColor=white)](https://ko‑fi.com/fajarkim)
 [![Trakteer](https://custom-icon-badges.demolab.com/badge/Trakteer-donate-red?logo=trakteerid&logoColor=white)](https://trakteer.id/fajarkim)
 
 Every donation, no matter the size, is greatly appreciated! ❤️
