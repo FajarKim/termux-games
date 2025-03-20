@@ -1,4 +1,4 @@
-name: Feature Request: Add New Game
+name: "Feature Request: Add New Game"
 description: Suggest a new game to be added to Termux Games.
 labels:
   - "enhancement"
