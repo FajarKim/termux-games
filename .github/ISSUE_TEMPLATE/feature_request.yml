@@ -1,0 +1,39 @@
+name: Feature Request: Add New Game
+description: Suggest a new game to be added to Termux Games.
+labels:
+  - "enhancement"
+body:
+  - type: input
+    attributes:
+      label: "Game Name"
+      description: "Enter the official name of the game."
+      placeholder: "e.g., Squid Game"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: "Game Version"
+      description: "Enter the version of the game if applicable."
+      placeholder: "e.g., 1.0"
+  - type: input
+    attributes:
+      label: "Source URL"
+      description: "Provide a link to the official source or repository of the game."
+      placeholder: "https://example.com"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "Describe the Game"
+      description: "Provide a clear and concise description of the game and its key features."
+      placeholder: "Describe what makes this game unique and why it should be added."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "Describe the Integration Plan"
+      description: "Explain how you envision integrating the game into Termux Games (optional)."
+  - type: textarea
+    attributes:
+      label: "Additional Context"
+      description: "Add any other context, ideas, or screenshots that might be helpful."
