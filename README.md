@@ -113,7 +113,7 @@ Termux Games is distributed under the BSD-3 Clause License. See the [LICENSE](/L
 
 For questions or suggestions, please reach out via:
 
-[![E-mail](https://img.shields.io/badge/E‑mail-gray?logo=gmail&logoColor=white)](mailto:fajarrkim@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gray?logo=gmail&logoColor=white)](mailto:fajarrkim@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-gray?logo=whatsapp&logoColor=white)](https://wa.me/6285659850910)
 [![Telegram](https://img.shields.io/badge/Telegram-gray?logo=telegram&logoColor=white)](https://t.me/FajarThea)
 
