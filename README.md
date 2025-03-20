@@ -104,7 +104,7 @@ Below is the list of games available in Termux Games along with their source lin
 
 ## Contributions
 
-Found a bug or have an idea for improvement? Feel free to open a pull request or report an issue on [GitHub Issues](https://github.com/FajarKim/termux-games/issues). Every contribution is highly appreciated!
+Found a bug or have an idea for improvement? Feel free to open a pull request or report an issue on [GitHub Issues](https://github.com/FajarKim/termux-games/issues/new/choose). Every contribution is highly appreciated!
 
 ## License
 
