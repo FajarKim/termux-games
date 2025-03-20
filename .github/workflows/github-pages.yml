@@ -47,7 +47,7 @@ jobs:
       - name: Replace content in README.md
         run: |
           repo_url=${{ github.server_url }}/${{ github.repository }}
-          sed "s/\/LICENSE/${repo_url}\/LICENSE/g" -i .github/sites/README.md
+          sed "s@/LICENSE@${repo_url}/LICENSE@g" -i .github/sites/README.md
 
       - name: Build Jekyll Site
         run: |
