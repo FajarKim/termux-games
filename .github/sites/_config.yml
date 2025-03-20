@@ -2,7 +2,7 @@ title: "Termux Games"
 description: "This is a simple tools for played games in Termux App 🎮"
 theme: jekyll-theme-tactile
 baseurl: ""
-url: "https://fajarkim.github.io"
+url: "https://fajarkim.github.io/termux-games/"
 markdown: kramdown
 include:
   - README.md
