@@ -122,7 +122,7 @@ For questions or suggestions, please reach out via:
 Your support helps us continue improving Termux Games. If you enjoy using this tool, please consider making a donation:
 
 [![PayPal](https://img.shields.io/badge/PayPal-donate-blue?logo=paypal&logoColor=white)](https://paypal.me/agusbirawan)
-[![Ko‑fi](https://img.shields.io/badge/Ko‑fi-donate-cyan?logo=ko‑fi&logoColor=white)](https://ko‑fi.com/fajarkim)
+[![Ko‑fi](https://img.shields.io/badge/Ko‑fi-donate-cyan?logo=kofi&logoColor=white)](https://ko-fi.com/fajarkim)
 [![Trakteer](https://custom-icon-badges.demolab.com/badge/Trakteer-donate-red?logo=trakteerid&logoColor=white)](https://trakteer.id/fajarkim)
 
 Every donation, no matter the size, is greatly appreciated! ❤️
