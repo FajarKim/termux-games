@@ -7,7 +7,7 @@
 
 ul li {
   list-style-image:url('../images/bullet.svg');
-  margin-left: 1em;
+  margin-left: 0.5em;
 }
 @media (min-width: 728px) {
   ul li {
@@ -16,7 +16,7 @@ ul li {
 }
 
 ol li {
-  margin-left: 1em;
+  margin-left: 0.5em;
 }
 @media (min-width: 728px) {
   ol li {
