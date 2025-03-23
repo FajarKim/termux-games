@@ -42,12 +42,22 @@ Termux Games offers a variety of features:
 
 Follow these steps to install Termux Games:
 
-1. Clone the repository:
+1. Update and upgrade packages:
+
+   ```bash
+   pkg update -y && pkg upgrade -y
+   ```
+2. Install the `git` package and the dependencies that will be needed:
+
+   ```bash
+   pkg install git xz-utils
+   ```
+3. Clone the repository:
 
    ```bash
    git clone https://github.com/FajarKim/termux-games.git
    ```
-2. Change to the `termux-games` directory:
+4. Change to the `termux-games` directory:
 
    ```bash
    cd termux-games
